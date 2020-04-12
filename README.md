@@ -33,6 +33,7 @@
   Type
    rosrun controller controller.py
   
+<img src="https://github.com/alejocbs/Planning_-Project3_pashe4/blob/master/Gazebo.PNG">
 
  
    
